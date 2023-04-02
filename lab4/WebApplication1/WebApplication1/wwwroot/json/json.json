@@ -1,0 +1,38 @@
+{
+
+  "pages": {
+    "index": {
+      "title": "GoodWEB Solutions - Responsive HTML5 Landing Page Template",
+      "nav-name": "home"
+    },
+    "testimonials": {
+      "title": "GoodWEB Solutions - Responsive HTML5 Landing Page Template",
+      "nav-name": "testimonials"
+    },
+    "about-us": {
+      "title": "GoodWEB Solutions - Responsive HTML5 Landing Page Template",
+      "nav-name": "about-us"
+    },
+    "contact": {
+      "title": "GoodWEB Solutions - Responsive HTML5 Landing Page Template",
+      "nav-name": "contact"
+    },
+    "portfolio": {
+      "title": "GoodWEB Solutions - Responsive HTML5 Landing Page Template",
+      "nav-name": "portfolio"
+    },
+    "features": {
+      "title": "GoodWEB Solutions - Responsive HTML5 Landing Page Template",
+      "nav-name": "features"
+    },
+    "pricing": {
+      "title": "GoodWEB Solutions - Responsive HTML5 Landing Page Template",
+      "nav-name": "pricing"
+    },
+    "services": {
+      "title": "GoodWEB Solutions - Responsive HTML5 Landing Page Template",
+      "nav-name": "services"
+    }
+  }
+}
+
