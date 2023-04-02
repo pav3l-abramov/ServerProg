@@ -14,19 +14,12 @@ namespace WebApplication1.Pages
         [IgnoreAntiforgeryToken]
         public class ContactModel : DefaultModel
         {
-
-
-            private readonly ILogger<IndexModel> _logger;
-            public ContactModel(ILogger<IndexModel> logger, IDataReader reader) : base(reader, "contact")
+            public ContactModel(IDataReader reader) : base(reader, "contact")
             {
-                _logger = logger;
             }
-
-            public string Email { get; set; }
-            public string Body { get; set; }
-            public string name
+            public void OnGet()
             {
-                get { return _pageName; }
+                title = _dataReader.GetData(_pageName)["title"];
             }
         }
     }

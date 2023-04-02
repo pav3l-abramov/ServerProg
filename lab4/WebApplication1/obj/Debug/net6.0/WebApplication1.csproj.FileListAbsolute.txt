@@ -29,3 +29,4 @@ C:\Users\pavel\OneDrive\Рабочий стол\WebApplication1\WebApplication1\
 C:\Users\pavel\OneDrive\Рабочий стол\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.pdb
 C:\Users\pavel\OneDrive\Рабочий стол\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.genruntimeconfig.cache
 C:\Users\pavel\OneDrive\Рабочий стол\WebApplication1\WebApplication1\obj\Debug\net6.0\ref\WebApplication1.dll
+C:\Users\pavel\OneDrive\Рабочий стол\WebApplication1\WebApplication1\bin\Debug\net6.0\json.json
