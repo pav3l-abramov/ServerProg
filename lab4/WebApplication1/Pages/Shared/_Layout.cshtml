@@ -1,4 +1,7 @@
-﻿<!DOCTYPE html>
+﻿@using System.Text.Json.Nodes
+
+
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="utf-8" />
@@ -98,10 +101,15 @@
     <main role="main" class="">
         @RenderBody()
     </main>
+    @if (Model.title.ToString() != "Our Contacts" && Model.title.ToString() != "Testimonials")
+    {
+        JsonNode p1 = Model.testimonials[0];
+        JsonNode p2 = Model.testimonials[1];
+        JsonNode p3 = Model.testimonials[2];
 
-
-    <div id="testimonials" class="parallax section db parallax-off" style="background-image:url('uploads/parallax_03.jpg');">
-        <div class="container">
+        <div id="testimonials" class="parallax section db parallax-off" style="background-image:url('uploads/parallax_03.jpg');">
+            <div class="container">
+            
             <div class="section-title text-center">
                 <h3>Testimonials</h3>
                 <p class="lead">We thanks for all our awesome testimonials! There are hundreds of our happy customers! <br>Let's see what others say about GoodWEB Solutions website template!</p>
@@ -112,12 +120,12 @@
                     <div class="testi-carousel owl-carousel owl-theme">
                         <div class="testimonial clearfix">
                             <div class="desc">
-                                <h3><i class="fa fa-quote-left"></i> Wonderful Support!</h3>
-                                <p class="lead">They have got my project on time with the competition with a sed highly skilled, and experienced & professional team.</p>
+                                    <h3><i class="fa fa-quote-left"></i> @p1["desc-title"]</h3>
+                                    <p class="lead">@p1["desc-text"]</p>
                             </div>
                             <div class="testi-meta">
-                                <img src="uploads/testi_01.png" alt="" class="img-responsive alignleft">
-                                <h4>James Fernando <small>- Manager of Racer</small></h4>
+                                    <img src=@p1["author-img"] alt="" class="img-responsive alignleft">
+                                    <h4>@p1["author-name"] <small>- @p1["author-title"]</small></h4>
                             </div>
                             <!-- end testi-meta -->
                         </div>
@@ -125,12 +133,37 @@
 
                         <div class="testimonial clearfix">
                             <div class="desc">
-                                <h3><i class="fa fa-quote-left"></i> Awesome Services!</h3>
-                                <p class="lead">Explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you completed.</p>
+                                    <h3><i class="fa fa-quote-left"></i> @p2["desc-title"]</h3>
+                                    <p class="lead">@p2["desc-text"]</p>
+                                </div>
+                            <div class="testi-meta">
+                                    <img src=@p2["author-img"] alt="" class="img-responsive alignleft">
+                                    <h4>@p2["author-name"] <small>- @p2["author-title"]</small></h4>
+                                </div>
+                            <!-- end testi-meta -->
+                        </div>
+                        <!-- end testimonial -->
+
+                        <div class="testimonial clearfix">
+                            <div class="desc">
+                                    <h3><i class="fa fa-quote-left"></i> @p3["desc-title"]</h3>
+                                    <p class="lead">@p3["desc-text"]</p>
+                                </div>
+                            <div class="testi-meta">
+                                    <img src=@p3["author-img"] alt="" class="img-responsive alignleft">
+                                    <h4>@p3["author-name"] <small>- @p3["author-title"]</small></h4>
+                                </div>
+                            <!-- end testi-meta -->
+                        </div>
+                        <!-- end testimonial -->
+                        <div class="testimonial clearfix">
+                            <div class="desc">
+                                    <h3><i class="fa fa-quote-left"></i> @p1["desc-title"]</h3>
+                                    <p class="lead">@p1["desc-text"]</p>
                             </div>
                             <div class="testi-meta">
-                                <img src="uploads/testi_02.png" alt="" class="img-responsive alignleft">
-                                <h4>Jacques Philips <small>- Designer</small></h4>
+                                    <img src=@p1["author-img"] alt="" class="img-responsive alignleft">
+                                    <h4>@p1["author-name"] <small>- @p1["author-title"]</small></h4>
                             </div>
                             <!-- end testi-meta -->
                         </div>
@@ -138,24 +171,12 @@
 
                         <div class="testimonial clearfix">
                             <div class="desc">
-                                <h3><i class="fa fa-quote-left"></i> Great & Talented Team!</h3>
-                                <p class="lead">The master-builder of human happines no one rejects, dislikes avoids pleasure itself, because it is very pursue pleasure. </p>
+                                    <h3><i class="fa fa-quote-left"></i> @p2["desc-title"]</h3>
+                                    <p class="lead">@p2["desc-text"]</p>
                             </div>
                             <div class="testi-meta">
-                                <img src="~/uploads/testi_03.png" alt="" class="img-responsive alignleft">
-                                <h4>Venanda Mercy <small>- Newyork City</small></h4>
-                            </div>
-                            <!-- end testi-meta -->
-                        </div>
-                        <!-- end testimonial -->
-                        <div class="testimonial clearfix">
-                            <div class="desc">
-                                <h3><i class="fa fa-quote-left"></i> Wonderful Support!</h3>
-                                <p class="lead">They have got my project on time with the competition with a sed highly skilled, and experienced & professional team.</p>
-                            </div>
-                            <div class="testi-meta">
-                                <img src="uploads/testi_01.png" alt="" class="img-responsive alignleft">
-                                <h4>James Fernando <small>- Manager of Racer</small></h4>
+                                    <img src=@p2["author-img"] alt="" class="img-responsive alignleft">
+                                    <h4>@p2["author-name"] <small>- @p2["author-title"]</small></h4>
                             </div>
                             <!-- end testi-meta -->
                         </div>
@@ -163,25 +184,12 @@
 
                         <div class="testimonial clearfix">
                             <div class="desc">
-                                <h3><i class="fa fa-quote-left"></i> Awesome Services!</h3>
-                                <p class="lead">Explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you completed.</p>
+                                    <h3><i class="fa fa-quote-left"></i> @p3["desc-title"]</h3>
+                                    <p class="lead">@p3["desc-text"]</p>
                             </div>
                             <div class="testi-meta">
-                                <img src="uploads/testi_02.png" alt="" class="img-responsive alignleft">
-                                <h4>Jacques Philips <small>- Designer</small></h4>
-                            </div>
-                            <!-- end testi-meta -->
-                        </div>
-                        <!-- end testimonial -->
-
-                        <div class="testimonial clearfix">
-                            <div class="desc">
-                                <h3><i class="fa fa-quote-left"></i> Great & Talented Team!</h3>
-                                <p class="lead">The master-builder of human happines no one rejects, dislikes avoids pleasure itself, because it is very pursue pleasure. </p>
-                            </div>
-                            <div class="testi-meta">
-                                <img src="uploads/testi_03.png" alt="" class="img-responsive alignleft">
-                                <h4>Venanda Mercy <small>- Newyork City</small></h4>
+                                    <img src=@p3["author-img"] alt="" class="img-responsive alignleft">
+                                    <h4>@p3["author-name"] <small>- @p3["author-title"]</small></h4>
                             </div>
                             <!-- end testi-meta -->
                         </div><!-- end testimonial -->
@@ -214,8 +222,8 @@
 
         </div><!-- end container -->
     </div><!-- end section -->
-
-
+    }
+    
 
 
 
