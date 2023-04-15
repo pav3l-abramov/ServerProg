@@ -5,7 +5,7 @@ using System.Text;
 
 class SimpleHttpServer
 {
-    private const string UriPrefix = "http://127.0.0.1:11111/";
+    private const string UriPrefix = "http://127.0.0.1:8080/";
     private readonly string _baseFolder;
     private readonly HttpListener listener = new HttpListener();
     private readonly StreamWriter logWriter;
@@ -37,7 +37,7 @@ class SimpleHttpServer
     {
         var filename = context.Request.Url.AbsolutePath;
         Console.WriteLine($"request: {filename} from {context.Request.RemoteEndPoint.Address}");
-        
+
 
         var filePath = Path.Combine(_baseFolder, filename.TrimStart('/'));
         if (File.Exists(filePath))
@@ -67,4 +67,3 @@ class SimpleHttpServer
     }
 
 }
-

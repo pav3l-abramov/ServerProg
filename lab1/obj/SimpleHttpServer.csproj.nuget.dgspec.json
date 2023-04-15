@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pavel\\OneDrive\\Рабочий стол\\server\\ServerProg\\lab1\\SimpleHttpServer.csproj": {}
+    "C:\\proj\\server\\ServerProg\\lab1\\SimpleHttpServer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pavel\\OneDrive\\Рабочий стол\\server\\ServerProg\\lab1\\SimpleHttpServer.csproj": {
+    "C:\\proj\\server\\ServerProg\\lab1\\SimpleHttpServer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pavel\\OneDrive\\Рабочий стол\\server\\ServerProg\\lab1\\SimpleHttpServer.csproj",
+        "projectUniqueName": "C:\\proj\\server\\ServerProg\\lab1\\SimpleHttpServer.csproj",
         "projectName": "SimpleHttpServer",
-        "projectPath": "C:\\Users\\pavel\\OneDrive\\Рабочий стол\\server\\ServerProg\\lab1\\SimpleHttpServer.csproj",
+        "projectPath": "C:\\proj\\server\\ServerProg\\lab1\\SimpleHttpServer.csproj",
         "packagesPath": "C:\\Users\\pavel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pavel\\OneDrive\\Рабочий стол\\server\\ServerProg\\lab1\\obj\\",
+        "outputPath": "C:\\proj\\server\\ServerProg\\lab1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
