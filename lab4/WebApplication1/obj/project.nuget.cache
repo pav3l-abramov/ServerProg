@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IY0+P9o844TR/HaXjlYYST8K9FaFWF2wOKubuj6e/hqahaCuwTmW6Uo6cuDpIxKGKEBLfxkq6Hpc3zDtUtRdSA==",
+  "dgSpecHash": "mn9FTCU+kmltw3ez8rEW8dNDe/ubrudvxoNokWptTABIilLNfUijgicoXUaL/aJbRY8TRYCIsU18dnrtu9LULQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\pavel\\OneDrive\\Рабочий стол\\server\\ServerProg\\lab4\\WebApplication1\\WebApplication1.csproj",
+  "projectFilePath": "C:\\proj\\server\\ServerProg\\lab4\\WebApplication1\\WebApplication1.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

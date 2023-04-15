@@ -1,26 +1,19 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
-using static WebApplication1.Pages.defaultModel;
-using Microsoft.Extensions.Logging;
 using WebApplication1.Services;
-using System.Security.Principal;
-using System.Globalization;
-
+using static WebApplication1.Pages.defaultModel;
 
 namespace WebApplication1.Pages
 {
-    public class contactModel : PageModel
+    public class contactModel : DefaultModel
     {
-        [IgnoreAntiforgeryToken]
-        public class ContactModel : DefaultModel
+        public contactModel(IDataReader reader) : base(reader, "contact")
         {
-            public ContactModel(IDataReader reader) : base(reader, "contact")
-            {
-            }
-            public void OnGet()
-            {
-                title = _dataReader.GetData(_pageName)["title"];
-            }
+        }
+
+        public void OnGet()
+        {
+            title = _dataReader.GetData(_pageName)["title"];
         }
     }
 }
