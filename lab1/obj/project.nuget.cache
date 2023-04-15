@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "G9uYEL6eWs5ZQ8YnK2jpSXfY0Av6Q+RFtIWhoHojFSH+4jq/nC0rhXuO3ZaL0di1xCUYCq+H2dUc5+DElGJSDw==",
+  "dgSpecHash": "HiiWW62qu2v9sdL33rxqaQk704Df8WV1ogP3wcmPt1gKC4jsSA7Hh65NQZThx5L2T/gU/mDzdogwCR06w2gcNg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\pavel\\OneDrive\\Рабочий стол\\SimpleServer-main\\SimpleHttpServer.csproj",
+  "projectFilePath": "C:\\Users\\pavel\\OneDrive\\Рабочий стол\\server\\ServerProg\\lab1\\SimpleHttpServer.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

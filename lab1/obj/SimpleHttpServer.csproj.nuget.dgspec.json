@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pavel\\OneDrive\\Рабочий стол\\SimpleServer-main\\SimpleHttpServer.csproj": {}
+    "C:\\Users\\pavel\\OneDrive\\Рабочий стол\\server\\ServerProg\\lab1\\SimpleHttpServer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pavel\\OneDrive\\Рабочий стол\\SimpleServer-main\\SimpleHttpServer.csproj": {
+    "C:\\Users\\pavel\\OneDrive\\Рабочий стол\\server\\ServerProg\\lab1\\SimpleHttpServer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pavel\\OneDrive\\Рабочий стол\\SimpleServer-main\\SimpleHttpServer.csproj",
+        "projectUniqueName": "C:\\Users\\pavel\\OneDrive\\Рабочий стол\\server\\ServerProg\\lab1\\SimpleHttpServer.csproj",
         "projectName": "SimpleHttpServer",
-        "projectPath": "C:\\Users\\pavel\\OneDrive\\Рабочий стол\\SimpleServer-main\\SimpleHttpServer.csproj",
+        "projectPath": "C:\\Users\\pavel\\OneDrive\\Рабочий стол\\server\\ServerProg\\lab1\\SimpleHttpServer.csproj",
         "packagesPath": "C:\\Users\\pavel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pavel\\OneDrive\\Рабочий стол\\SimpleServer-main\\obj\\",
+        "outputPath": "C:\\Users\\pavel\\OneDrive\\Рабочий стол\\server\\ServerProg\\lab1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
