@@ -94,3 +94,5 @@ C:\proj\server\ServerProg\lab5\WebApplication1\obj\Debug\net6.0\refint\WebApplic
 C:\proj\server\ServerProg\lab5\WebApplication1\obj\Debug\net6.0\WebApplication1.pdb
 C:\proj\server\ServerProg\lab5\WebApplication1\obj\Debug\net6.0\WebApplication1.genruntimeconfig.cache
 C:\proj\server\ServerProg\lab5\WebApplication1\obj\Debug\net6.0\ref\WebApplication1.dll
+C:\proj\server\ServerProg\lab5\WebApplication1\bin\Debug\net6.0\CsvHelper.dll
+C:\proj\server\ServerProg\lab5\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.CopyComplete

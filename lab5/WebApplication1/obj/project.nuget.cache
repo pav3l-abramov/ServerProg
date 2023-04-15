@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "a+9vE3gJuxIJ280G4Tq/ieYk7nKqMVFTMgo3JldjoU0lBBOwgRAgYSKWS92PnHMb5qZ29PBhzXF+3aGmW1vp/w==",
+  "dgSpecHash": "iVJCRJzPLTKw29fJocqXhTeH/eSNTM/nUbRq9uuKuXb9DV8sj37NHhZvt7rK81AaNBcw9KmhdQ4mp0Ll7iggEQ==",
   "success": true,
   "projectFilePath": "C:\\proj\\server\\ServerProg\\lab5\\WebApplication1\\WebApplication1.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\pavel\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512"
+  ],
   "logs": []
 }
