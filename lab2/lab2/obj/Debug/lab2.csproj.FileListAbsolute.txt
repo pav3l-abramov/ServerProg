@@ -22,3 +22,11 @@ C:\Users\pavel\OneDrive\Рабочий стол\server\lab2\lab2\obj\Debug\lab2.
 C:\Users\pavel\OneDrive\Рабочий стол\server\lab2\lab2\obj\Debug\lab2.csproj.CoreCompileInputs.cache
 C:\Users\pavel\OneDrive\Рабочий стол\server\lab2\lab2\obj\Debug\lab2.exe
 C:\Users\pavel\OneDrive\Рабочий стол\server\lab2\lab2\obj\Debug\lab2.pdb
+C:\Users\pavel\OneDrive\Рабочий стол\server\ServerProg\lab2\lab2\bin\Debug\lab2.exe.config
+C:\Users\pavel\OneDrive\Рабочий стол\server\ServerProg\lab2\lab2\bin\Debug\lab2.exe
+C:\Users\pavel\OneDrive\Рабочий стол\server\ServerProg\lab2\lab2\bin\Debug\lab2.pdb
+C:\Users\pavel\OneDrive\Рабочий стол\server\ServerProg\lab2\lab2\obj\Debug\lab2.csproj.AssemblyReference.cache
+C:\Users\pavel\OneDrive\Рабочий стол\server\ServerProg\lab2\lab2\obj\Debug\lab2.csproj.SuggestedBindingRedirects.cache
+C:\Users\pavel\OneDrive\Рабочий стол\server\ServerProg\lab2\lab2\obj\Debug\lab2.csproj.CoreCompileInputs.cache
+C:\Users\pavel\OneDrive\Рабочий стол\server\ServerProg\lab2\lab2\obj\Debug\lab2.exe
+C:\Users\pavel\OneDrive\Рабочий стол\server\ServerProg\lab2\lab2\obj\Debug\lab2.pdb
