@@ -5,6 +5,8 @@ using static WebApplication1.Pages.defaultModel;
 using CsvHelper;
 using System.Globalization;
 using System.Text.RegularExpressions;
+using WebApplication1.Data;
+using Microsoft.EntityFrameworkCore;
 
 namespace WebApplication1.Pages
 {
@@ -23,12 +25,12 @@ namespace WebApplication1.Pages
     [IgnoreAntiforgeryToken]
     public class contactModel : DefaultModel
     {
-
-        public contactModel(IDataReader reader) : base(reader, "contact")
+        private readonly Context _db;
+        public contactModel(IDataReader reader, Context db) : base(reader, "contact")
         {
-
+            _db = db;
         }
-
+       
         public void OnGet()
         {
             title = _dataReader.GetData(_pageName)["title"];
@@ -62,6 +64,8 @@ namespace WebApplication1.Pages
             }
             else
             {
+                this._db.Contacts.Add(new Models.Contact { FirstName = Message.First_Name, Email = Message.Email, LastName = Message.Last_Name, Phone = Message.Phone });
+                this._db.SaveChanges();
                 WriteFile("contact.csv", Message);
                 return Content($@"<fieldset>
                         <div id='success_page'> 

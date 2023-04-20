@@ -4,18 +4,23 @@ using WebApplication1.Services;
 using WebApplication1.Pages;
 using System.Text.Json.Nodes;
 using static WebApplication1.Pages.defaultModel;
+using WebApplication1.Data;
 
 namespace WebApplication1.Pages
 {
     public class IndexModel : DefaultModel
     {
-        public IndexModel(IDataReader reader) : base(reader, "index")
+        private readonly Context _db;
+        public JsonNode json;
+        public IndexModel(IDataReader reader, Context db) : base(reader, "index")
         {
+            _db = db;
         }
 
         public void OnGet()
         {
             title = _dataReader.GetData(_pageName)["title"];
+            ViewData["count"] = this._db.Contacts.ToList().Count;
 
         }
 
