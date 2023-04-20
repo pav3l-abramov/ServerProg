@@ -1,0 +1,53 @@
+{
+
+  "pages": {
+    "index": {
+      "title": "home"
+    },
+    "testimonials": {
+      "title": "testimonials",
+      "items": [
+        {
+          "desc-title": "шлеп",
+          "desc-text": "I am not in danger, Skyler. I am the danger!",
+          "author-img": "uploads/testi_02.png",
+          "author-name": "James Fernando",
+          "author-title": "Manager of Racer"
+        },
+        {
+          "desc-title": "шлеп шлеп",
+          "desc-text": "A guy opens his door and gets shot and you think that of me? No. I am the one who knocks!",
+          "author-img": "uploads/testi_03.png",
+          "author-name": "Jacques Philips",
+          "author-title": "Designer"
+        },
+        {
+          "desc-title": "шлеп шлеп шлеп",
+          "desc-text": "My name is Gustavo, but you can call me SUS",
+          "author-img": "uploads/testi_01.png",
+          "author-name": "Venanda Mercy",
+          "author-title": "что-то"
+        }
+      ]
+    },
+    "about-us": {
+      "title":  "about-us"
+    },
+    "contact": {
+      "title": "contact"
+    },
+    "portfolio": {
+      "title":  "portfolio"
+    },
+    "features": {
+      "title":  "features"
+    },
+    "pricing": {
+      "title":  "pricing"
+    },
+    "services": {
+      "title":  "services"
+    }
+  }
+}
+

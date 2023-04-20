@@ -1,0 +1,98 @@
+C:\Users\pavel\OneDrive\Рабочий стол\WebApplication1\WebApplication1\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\pavel\OneDrive\Рабочий стол\WebApplication1\WebApplication1\bin\Debug\net6.0\appsettings.json
+C:\Users\pavel\OneDrive\Рабочий стол\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.staticwebassets.runtime.json
+C:\Users\pavel\OneDrive\Рабочий стол\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.exe
+C:\Users\pavel\OneDrive\Рабочий стол\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.deps.json
+C:\Users\pavel\OneDrive\Рабочий стол\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.runtimeconfig.json
+C:\Users\pavel\OneDrive\Рабочий стол\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.dll
+C:\Users\pavel\OneDrive\Рабочий стол\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.pdb
+C:\Users\pavel\OneDrive\Рабочий стол\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\pavel\OneDrive\Рабочий стол\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pavel\OneDrive\Рабочий стол\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\pavel\OneDrive\Рабочий стол\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfo.cs
+C:\Users\pavel\OneDrive\Рабочий стол\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\pavel\OneDrive\Рабочий стол\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pavel\OneDrive\Рабочий стол\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.RazorAssemblyInfo.cache
+C:\Users\pavel\OneDrive\Рабочий стол\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.RazorAssemblyInfo.cs
+C:\Users\pavel\OneDrive\Рабочий стол\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\pavel\OneDrive\Рабочий стол\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApplication1.props
+C:\Users\pavel\OneDrive\Рабочий стол\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
+C:\Users\pavel\OneDrive\Рабочий стол\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApplication1.props
+C:\Users\pavel\OneDrive\Рабочий стол\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\pavel\OneDrive\Рабочий стол\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\pavel\OneDrive\Рабочий стол\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\pavel\OneDrive\Рабочий стол\WebApplication1\WebApplication1\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\pavel\OneDrive\Рабочий стол\WebApplication1\WebApplication1\obj\Debug\net6.0\scopedcss\bundle\WebApplication1.styles.css
+C:\Users\pavel\OneDrive\Рабочий стол\WebApplication1\WebApplication1\obj\Debug\net6.0\scopedcss\projectbundle\WebApplication1.bundle.scp.css
+C:\Users\pavel\OneDrive\Рабочий стол\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.dll
+C:\Users\pavel\OneDrive\Рабочий стол\WebApplication1\WebApplication1\obj\Debug\net6.0\refint\WebApplication1.dll
+C:\Users\pavel\OneDrive\Рабочий стол\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.pdb
+C:\Users\pavel\OneDrive\Рабочий стол\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.genruntimeconfig.cache
+C:\Users\pavel\OneDrive\Рабочий стол\WebApplication1\WebApplication1\obj\Debug\net6.0\ref\WebApplication1.dll
+C:\Users\pavel\OneDrive\Рабочий стол\WebApplication1\WebApplication1\bin\Debug\net6.0\json.json
+C:\Users\pavel\OneDrive\Рабочий стол\server\ServerProg\lab4\WebApplication1\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\pavel\OneDrive\Рабочий стол\server\ServerProg\lab4\WebApplication1\bin\Debug\net6.0\appsettings.json
+C:\Users\pavel\OneDrive\Рабочий стол\server\ServerProg\lab4\WebApplication1\bin\Debug\net6.0\json.json
+C:\Users\pavel\OneDrive\Рабочий стол\server\ServerProg\lab4\WebApplication1\bin\Debug\net6.0\WebApplication1.staticwebassets.runtime.json
+C:\Users\pavel\OneDrive\Рабочий стол\server\ServerProg\lab4\WebApplication1\bin\Debug\net6.0\WebApplication1.exe
+C:\Users\pavel\OneDrive\Рабочий стол\server\ServerProg\lab4\WebApplication1\bin\Debug\net6.0\WebApplication1.deps.json
+C:\Users\pavel\OneDrive\Рабочий стол\server\ServerProg\lab4\WebApplication1\bin\Debug\net6.0\WebApplication1.runtimeconfig.json
+C:\Users\pavel\OneDrive\Рабочий стол\server\ServerProg\lab4\WebApplication1\bin\Debug\net6.0\WebApplication1.dll
+C:\Users\pavel\OneDrive\Рабочий стол\server\ServerProg\lab4\WebApplication1\bin\Debug\net6.0\WebApplication1.pdb
+C:\Users\pavel\OneDrive\Рабочий стол\server\ServerProg\lab4\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\pavel\OneDrive\Рабочий стол\server\ServerProg\lab4\WebApplication1\obj\Debug\net6.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pavel\OneDrive\Рабочий стол\server\ServerProg\lab4\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\pavel\OneDrive\Рабочий стол\server\ServerProg\lab4\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfo.cs
+C:\Users\pavel\OneDrive\Рабочий стол\server\ServerProg\lab4\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\pavel\OneDrive\Рабочий стол\server\ServerProg\lab4\WebApplication1\obj\Debug\net6.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pavel\OneDrive\Рабочий стол\server\ServerProg\lab4\WebApplication1\obj\Debug\net6.0\WebApplication1.RazorAssemblyInfo.cache
+C:\Users\pavel\OneDrive\Рабочий стол\server\ServerProg\lab4\WebApplication1\obj\Debug\net6.0\WebApplication1.RazorAssemblyInfo.cs
+C:\Users\pavel\OneDrive\Рабочий стол\server\ServerProg\lab4\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\pavel\OneDrive\Рабочий стол\server\ServerProg\lab4\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApplication1.props
+C:\Users\pavel\OneDrive\Рабочий стол\server\ServerProg\lab4\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
+C:\Users\pavel\OneDrive\Рабочий стол\server\ServerProg\lab4\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApplication1.props
+C:\Users\pavel\OneDrive\Рабочий стол\server\ServerProg\lab4\WebApplication1\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\pavel\OneDrive\Рабочий стол\server\ServerProg\lab4\WebApplication1\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\pavel\OneDrive\Рабочий стол\server\ServerProg\lab4\WebApplication1\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\pavel\OneDrive\Рабочий стол\server\ServerProg\lab4\WebApplication1\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\pavel\OneDrive\Рабочий стол\server\ServerProg\lab4\WebApplication1\obj\Debug\net6.0\scopedcss\bundle\WebApplication1.styles.css
+C:\Users\pavel\OneDrive\Рабочий стол\server\ServerProg\lab4\WebApplication1\obj\Debug\net6.0\scopedcss\projectbundle\WebApplication1.bundle.scp.css
+C:\Users\pavel\OneDrive\Рабочий стол\server\ServerProg\lab4\WebApplication1\obj\Debug\net6.0\WebApplication1.dll
+C:\Users\pavel\OneDrive\Рабочий стол\server\ServerProg\lab4\WebApplication1\obj\Debug\net6.0\refint\WebApplication1.dll
+C:\Users\pavel\OneDrive\Рабочий стол\server\ServerProg\lab4\WebApplication1\obj\Debug\net6.0\WebApplication1.pdb
+C:\Users\pavel\OneDrive\Рабочий стол\server\ServerProg\lab4\WebApplication1\obj\Debug\net6.0\WebApplication1.genruntimeconfig.cache
+C:\Users\pavel\OneDrive\Рабочий стол\server\ServerProg\lab4\WebApplication1\obj\Debug\net6.0\ref\WebApplication1.dll
+C:\proj\server\ServerProg\lab5\WebApplication1\bin\Debug\net6.0\appsettings.Development.json
+C:\proj\server\ServerProg\lab5\WebApplication1\bin\Debug\net6.0\appsettings.json
+C:\proj\server\ServerProg\lab5\WebApplication1\bin\Debug\net6.0\json.json
+C:\proj\server\ServerProg\lab5\WebApplication1\bin\Debug\net6.0\WebApplication1.staticwebassets.runtime.json
+C:\proj\server\ServerProg\lab5\WebApplication1\bin\Debug\net6.0\WebApplication1.exe
+C:\proj\server\ServerProg\lab5\WebApplication1\bin\Debug\net6.0\WebApplication1.deps.json
+C:\proj\server\ServerProg\lab5\WebApplication1\bin\Debug\net6.0\WebApplication1.runtimeconfig.json
+C:\proj\server\ServerProg\lab5\WebApplication1\bin\Debug\net6.0\WebApplication1.dll
+C:\proj\server\ServerProg\lab5\WebApplication1\bin\Debug\net6.0\WebApplication1.pdb
+C:\proj\server\ServerProg\lab5\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.AssemblyReference.cache
+C:\proj\server\ServerProg\lab5\WebApplication1\obj\Debug\net6.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\proj\server\ServerProg\lab5\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfoInputs.cache
+C:\proj\server\ServerProg\lab5\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfo.cs
+C:\proj\server\ServerProg\lab5\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\proj\server\ServerProg\lab5\WebApplication1\obj\Debug\net6.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\proj\server\ServerProg\lab5\WebApplication1\obj\Debug\net6.0\WebApplication1.RazorAssemblyInfo.cache
+C:\proj\server\ServerProg\lab5\WebApplication1\obj\Debug\net6.0\WebApplication1.RazorAssemblyInfo.cs
+C:\proj\server\ServerProg\lab5\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\proj\server\ServerProg\lab5\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApplication1.props
+C:\proj\server\ServerProg\lab5\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
+C:\proj\server\ServerProg\lab5\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApplication1.props
+C:\proj\server\ServerProg\lab5\WebApplication1\obj\Debug\net6.0\staticwebassets.pack.json
+C:\proj\server\ServerProg\lab5\WebApplication1\obj\Debug\net6.0\staticwebassets.build.json
+C:\proj\server\ServerProg\lab5\WebApplication1\obj\Debug\net6.0\staticwebassets.development.json
+C:\proj\server\ServerProg\lab5\WebApplication1\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\proj\server\ServerProg\lab5\WebApplication1\obj\Debug\net6.0\scopedcss\bundle\WebApplication1.styles.css
+C:\proj\server\ServerProg\lab5\WebApplication1\obj\Debug\net6.0\scopedcss\projectbundle\WebApplication1.bundle.scp.css
+C:\proj\server\ServerProg\lab5\WebApplication1\obj\Debug\net6.0\WebApplication1.dll
+C:\proj\server\ServerProg\lab5\WebApplication1\obj\Debug\net6.0\refint\WebApplication1.dll
+C:\proj\server\ServerProg\lab5\WebApplication1\obj\Debug\net6.0\WebApplication1.pdb
+C:\proj\server\ServerProg\lab5\WebApplication1\obj\Debug\net6.0\WebApplication1.genruntimeconfig.cache
+C:\proj\server\ServerProg\lab5\WebApplication1\obj\Debug\net6.0\ref\WebApplication1.dll
+C:\proj\server\ServerProg\lab5\WebApplication1\bin\Debug\net6.0\CsvHelper.dll
+C:\proj\server\ServerProg\lab5\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.CopyComplete
