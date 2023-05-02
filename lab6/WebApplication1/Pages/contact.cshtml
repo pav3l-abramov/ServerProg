@@ -42,20 +42,20 @@
                     <form id="contactform" class="row" name="contactform" method="post">
                         <fieldset class="row-fluid">
                             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                                <input type="text" name="First_name" id="first_name" class="form-control" placeholder="First Name">
+                                <input asp-for="Contact.FirstName" type="text" name="First_name" id="first_name" class="form-control" placeholder="First Name">
                             </div>
                             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                                <input type="text" name="Last_name" id="last_name" class="form-control" placeholder="Last Name">
+                                <input asp-for="Contact.LastName" type="text" name="Last_name" id="last_name" class="form-control" placeholder="Last Name">
                             </div>
                             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                                <input type="email" name="Email" id="email" class="form-control" placeholder="Your Email">
+                                <input asp-for="Contact.Email" type="email" name="Email" id="email" class="form-control" placeholder="Your Email">
                             </div>
                             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                                <input type="text" name="Phone" id="phone" class="form-control" placeholder="Your Phone">
+                                <input asp-for="Contact.Phone" type="text" name="Phone" id="phone" class="form-control" placeholder="Your Phone">
                             </div>
                             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                                 <label class="sr-only">Select Service</label>
-                                <select name="Select_service" id="select_service" class="selectpicker form-control" data-style="btn-white">
+                                <select asp-for="Contact.Select_service" name="Select_service" id="select_service" class="selectpicker form-control" data-style="btn-white">
                                     <option value="Installation Service">Installation Service</option>
                                     <option value="Web Design">Web Design</option>
                                     <option value="Web Development">Web Development</option>
@@ -65,14 +65,14 @@
                             </div>
                             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                                 <label class="sr-only">What is max price?</label>
-                                <select name="Select_price" id="select_price" class="selectpicker form-control" data-style="btn-white">
+                                <select asp-for="Contact.Select_price" name="Select_price" id="select_price" class="selectpicker form-control" data-style="btn-white">
                                     <option value="$100 - $2000">$100 - $2000</option>
                                     <option value="$2000 - $4000">$2000 - $4000</option>
                                     <option value="$4000 - $10000">$4000 - $10000</option>
                                 </select>
                             </div>
                             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                                <textarea class="form-control" name="Comments" id="comments" rows="6" placeholder="Give us more details.."></textarea>
+                                <textarea asp-for="Contact.Comments" class="form-control" name="Comments" id="comments" rows="6" placeholder="Give us more details.."></textarea>
                             </div>
                             <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 text-center">
                                 <button type="submit" value="SEND" id="submit" class="btn btn-light btn-radius btn-brd grd1 btn-block">Submit</button>

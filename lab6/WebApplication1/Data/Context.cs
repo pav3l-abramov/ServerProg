@@ -8,6 +8,7 @@ namespace WebApplication1.Data
 
         public DbSet<Contact> Contacts { get; set; }
 
+        public DbSet<Testimonial> Testimonials { get; set; }
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             base.OnConfiguring(optionsBuilder);
@@ -15,7 +16,8 @@ namespace WebApplication1.Data
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            modelBuilder.Entity<Contact>().ToTable("contacts");
+            modelBuilder.Entity<Contact>().ToTable("Contact");
+            modelBuilder.Entity<Testimonial>().ToTable("Testimonial");
         }
     }
 }
