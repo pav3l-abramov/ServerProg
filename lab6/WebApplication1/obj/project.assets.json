@@ -59,6 +59,25 @@
           }
         }
       },
+      "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore/6.0.16": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore.Relational": "6.0.16"
+        },
+        "compile": {
+          "lib/net6.0/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll": {
+            "related": ".xml"
+          }
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
+      },
       "Microsoft.Bcl.AsyncInterfaces/1.1.1": {
         "type": "package",
         "compile": {
@@ -1123,6 +1142,21 @@
         "lib/netstandard2.0/CsvHelper.xml",
         "lib/netstandard2.1/CsvHelper.dll",
         "lib/netstandard2.1/CsvHelper.xml"
+      ]
+    },
+    "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore/6.0.16": {
+      "sha512": "Bj/9X5EZX3wdOh5AaKxnbTWUAA6e2Zy+VPfh6lwaT8XyIWOp26uSIsqS58Cmtq6FgxDp5cMsSNu2WURIODYTJw==",
+      "type": "package",
+      "path": "microsoft.aspnetcore.diagnostics.entityframeworkcore/6.0.16",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/net6.0/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll",
+        "lib/net6.0/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.xml",
+        "microsoft.aspnetcore.diagnostics.entityframeworkcore.6.0.16.nupkg.sha512",
+        "microsoft.aspnetcore.diagnostics.entityframeworkcore.nuspec"
       ]
     },
     "Microsoft.Bcl.AsyncInterfaces/1.1.1": {
@@ -3257,7 +3291,7 @@
   "projectFileDependencyGroups": {
     "net6.0": [
       "CsvHelper >= 30.0.1",
-      "Microsoft.EntityFrameworkCore >= 7.0.5",
+      "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore >= 6.0.16",
       "Microsoft.EntityFrameworkCore.Relational >= 7.0.5",
       "Microsoft.EntityFrameworkCore.SqlServer >= 7.0.5"
     ]
@@ -3310,9 +3344,9 @@
             "target": "Package",
             "version": "[30.0.1, )"
           },
-          "Microsoft.EntityFrameworkCore": {
+          "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
             "target": "Package",
-            "version": "[7.0.5, )"
+            "version": "[6.0.16, )"
           },
           "Microsoft.EntityFrameworkCore.Relational": {
             "target": "Package",

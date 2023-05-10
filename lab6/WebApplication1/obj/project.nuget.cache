@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "ogupPeZdFjvYArPCBjRSI4Qt3vgs2IRlVyAG41uQ7MnEjvY0DHj6MssTGJOWoFlxwFEaQ/LtdA5q/T51pb0I/Q==",
+  "dgSpecHash": "CCTDrxFQSQ01j26AtN28AQ66jnE63CbiaUVdSMoQKBC5YHMuwPUHlSJL3Zsm8and7YDte31yjX8uLkq6OOqdtA==",
   "success": true,
   "projectFilePath": "C:\\proj\\server\\ServerProg\\lab6\\WebApplication1\\WebApplication1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pavel\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\pavel\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
     "C:\\Users\\pavel\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512",
+    "C:\\Users\\pavel\\.nuget\\packages\\microsoft.aspnetcore.diagnostics.entityframeworkcore\\6.0.16\\microsoft.aspnetcore.diagnostics.entityframeworkcore.6.0.16.nupkg.sha512",
     "C:\\Users\\pavel\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\pavel\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\pavel\\.nuget\\packages\\microsoft.data.sqlclient\\5.0.1\\microsoft.data.sqlclient.5.0.1.nupkg.sha512",
