@@ -38,6 +38,7 @@ namespace SuperHeroes.Models
                     var users = new AuthenticationUser[]
                     {
                         new AuthenticationUser{ Login = "pavel", Password = "pavel", Role = "pavel"},
+                        new AuthenticationUser{ Login = "user", Password = "user", Role = "user"},
                     };
                     context.Users.AddRange(users);
                     context.SaveChanges();
