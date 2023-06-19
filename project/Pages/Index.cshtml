@@ -1,0 +1,38 @@
+﻿@page
+@model FilmOMDB.Pages.FilmsModel
+@{
+    ViewData["Title"] = "Films";
+}
+<div class="form-container">
+    <form method="post">
+        <input type="text" id="filmName" name="FilmName" asp-for="FilmName" />
+        <button type="submit" class="btn">ADD FILM</button>
+    </form>
+
+    <form method="post" asp-page-handler="Logout" style="margin-left: auto;">
+        <button type="submit" class="btn">Logout</button>
+    </form>
+</div>
+
+
+@if (Model.Films != null && Model.Films.Count > 0)
+{
+    <div class="row">
+        @foreach (var film in Model.Films)
+        {
+            <div class="poster">
+                <img src="@film.Poster" />
+                <h2>@film.Title</h2>
+                <h2>@film.Year</h2>
+                    <h3>@film.Plot</h3>
+               
+                @*         <div class="details">
+
+        <h2>@film.Year</h2>
+        </div>*@
+            </div>
+        }
+    </div>
+}
+
+

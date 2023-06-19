@@ -1,0 +1,147 @@
+@font-face {
+    font-family: Roboto-Bold;
+    src: url('../fonts/roboto/Roboto-Bold.ttf');
+}
+html {
+    font-size: 14px;
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+    box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    margin-bottom: 60px;
+    background: #212121;
+}
+.navbar-brand {
+    color: rgb(0, 240, 255);
+}
+
+.form-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.form-container form {
+    display: flex;
+    align-items: center;
+    margin-left: auto;
+}
+
+    .form-container input {
+        min-width: 10em;
+        position: relative;
+        padding: 0.9em;
+        margin: 0.3em;
+        border-radius: 0.5em;
+        border: 0;
+    }
+    .form-container .btn {
+        padding: 1em;
+        background-color: #343434;
+        border-radius: 0.5em;
+        border: 1px;
+        min-width: 6em;
+        color: rgb(255, 138, 2);
+    }
+.row {
+    width: 100%;
+    display: block;
+    justify-content: left;
+    flex-wrap: wrap;
+}
+.poster {
+    position: relative;
+    display: flex;
+    justify-content: left;
+    width: 100%;
+    padding: 0;
+    margin: 20px;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 3px 4px 0 rgba(255, 255, 255, 0.9), 0 4px 15px 0 rgba(10, 1, 1, 0.69);
+}
+h1 {
+    padding: 20px;
+    /*text-align: center;*/
+    bottom: 0;
+    color: rgba(255,255,255,0.9);
+}
+h2 {
+    padding: 20px;
+    text-align: center;
+    bottom: 0;
+    color: rgb(255, 138, 2);
+}
+h3 {
+    padding: 20px;
+    /*text-align: left;*/
+    bottom: 0;
+    color: rgba(255,255,255,0.9);
+}
+h4 {
+    padding: 20px;
+    /*text-align: left;*/
+    bottom: 0;
+    color: rgb(0, 240, 255);
+}
+.poster img {
+    width: auto;
+    height: auto;
+    display: block;
+    object-fit: cover;
+}
+
+.email-form label {
+    color: aliceblue;
+    font-size: 16pt;
+}
+
+.pass-form label {
+    color: aliceblue;
+    font-size: 16pt;
+}
+
+
+.pass-form input {
+    min-width: 10em;
+    position: relative;
+    padding: 0.9em;
+    margin: 0.3em;
+    border-radius: 0.5em;
+    border: 0;
+}
+
+
+.email-form input {
+    min-width: 10em;
+    position: relative;
+    padding: 0.9em;
+    margin: 0.3em;
+    border-radius: 0.5em;
+    border: 0;
+}
+.btn {
+    padding: 1em;
+    background-color: #343434;
+    border-radius: 0.5em;
+    border: 1px;
+    min-width: 6em;
+    color: rgb(255, 138, 2);
+}
+    .btn:hover {
+        color: rgb(0, 240, 255);
+    }
